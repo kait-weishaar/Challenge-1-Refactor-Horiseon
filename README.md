@@ -9,7 +9,7 @@ A website that meets accessibility standards for Horiseon, a search engine optim
 *CSS
 
 ## Website
-https://github.com/kait-weishaar/Challenge-1-Refactor-Horiseon#challenge-1-refactor-horiseon
+https://kait-weishaar.github.io/Challenge-1-Refactor-Horiseon/
 
 ## Contribution
 Base code provided by UW Madison Extension coding bootcamp.
