@@ -5,8 +5,8 @@ A website that meets accessibility standards for Horiseon, a search engine optim
 
 
 ## Built with
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://kait-weishaar.github.io/Challenge-1-Refactor-Horiseon/
